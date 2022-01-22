@@ -5,4 +5,6 @@
 
 [pictureMark文档.pdf](https://github.com/Dreamlittlecat/javaFX-/files/7918522/pictureMark.pdf)
 
-这个项目旨在从零开始完成一个图片标注工具，利用javafx；
+这个项目旨在利用javafx从零开始完成一个图片标注工具；
+
+
